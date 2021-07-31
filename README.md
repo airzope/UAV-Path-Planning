@@ -6,3 +6,5 @@
 // copy the two projects in the bin root directory.
 // Open the main.m, run this file.
 // simulation results and convergence rate will be accomplished within few seconds.
+
+# 修复matlab 2016以上不能运行的问题，添加了自定义randint
